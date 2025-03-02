@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/) using [Con
 
 Since `v4.6.0`, we have switched to automated releases and this file does not need to be manually updated.
 
+## [4.13.9](https://github.com/nwutils/nw-builder/compare/v4.13.8...v4.13.9) (2025-03-02)
+
+
+### Chores
+
+* reverse undeprecation of get and run mode ([e139740](https://github.com/nwutils/nw-builder/commit/e1397405929302f07d5bd1bcec913550050c3aa0))
+
 ## [4.13.8](https://github.com/nwutils/nw-builder/compare/v4.13.7...v4.13.8) (2025-01-01)
 
 
